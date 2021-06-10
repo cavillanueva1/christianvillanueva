@@ -17,7 +17,7 @@ params:
   mainMenu:
     - link: post
       text: posts
-    - link: gallery
+    - link: gallery4real
       text: gallery
     - link: portfolio
       text: portfolio
