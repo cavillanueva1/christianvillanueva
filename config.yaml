@@ -1,8 +1,8 @@
-baseurl: https://example.com
+baseurl: https://www.christianvillanueva.com/
 languageCode: en-us
 defaultContentLanguage: en
 isMultilingual: no
-title: Call me Sam
+title: Christian Villanueva
 theme: hugo-theme-sam
 pygmentsStyle: monokai
 pygmentsCodefences: yes
@@ -11,7 +11,7 @@ params:
   dateformfull: Mon Jan 2 2006 15:04:05 EST
   description: A new Hugo site.
   favicon: sam.ico
-  footerText: Call me Sam, a theme for Hugo.
+  footerText: Powered by RedBull.
   homepage: main
   images: tn.png
   mainMenu:
@@ -22,8 +22,8 @@ params:
     - link: portfolio
       text: portfolio
     - link: about
-      text: who is sam?
-  title: Call me Sam
+      text: Christian? Tell me more about that guy
+  title: Christian
   videoBackground:
     overlay: rgba(0, 0, 0, 0.4)
     sources:
