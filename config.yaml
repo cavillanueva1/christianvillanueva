@@ -17,8 +17,8 @@ params:
   mainMenu:
     - link: posts
       text: posts
-    - link: gallery
-      text: gallery
+    - link: Gallery
+      text: Gallery
     - link: portfolio
       text: portfolio
     - link: about
