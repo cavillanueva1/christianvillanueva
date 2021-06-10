@@ -1,5 +1,5 @@
 ---
-title: I have absolutely no clue how to do this
+title: wow look at all of my work wow im amazing
 author: R package build
 date: '2021-06-10'
 slug: []
@@ -8,6 +8,3 @@ tags: []
 showDate: no
 ---
 
-
-
-<p>yeah idk sorry</p>

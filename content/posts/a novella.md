@@ -8,8 +8,3 @@ tags: []
 showDate: no
 ---
 
-# chapter 1
-
-the little pigboy was covered in dirt. he loved it.
-
-,,, to be continued
