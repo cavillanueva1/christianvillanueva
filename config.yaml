@@ -15,9 +15,9 @@ params:
   homepage: main
   images: tn.png
   mainMenu:
-    - link: post
+    - link: posts
       text: posts
-    - link: gallery4real
+    - link: gallery
       text: gallery
     - link: portfolio
       text: portfolio
