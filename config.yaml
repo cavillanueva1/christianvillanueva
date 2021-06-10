@@ -15,7 +15,7 @@ params:
   homepage: main
   images: tn.png
   mainMenu:
-    - link: posts
+    - link: post
       text: posts
     - link: gallery
       text: gallery
