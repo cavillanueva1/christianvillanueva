@@ -8,4 +8,4 @@ tags: []
 showDate: no
 ---
 
-look at this picture. it is a sandy beach maybe or just a tree
+look at this picture. it is a sandy beach maybe or just a tree. anyway i can't figure out how to do this part for some reason
