@@ -8,3 +8,4 @@ tags: []
 showDate: no
 ---
 
+this is not bad i think it will be where i put myself out there for the world to see

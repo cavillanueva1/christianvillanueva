@@ -8,3 +8,4 @@ tags: []
 showDate: no
 ---
 
+yeah sorry im not very good at this but give me a break im coding this all
