@@ -22,7 +22,7 @@ params:
     - link: portfolio
       text: portfolio
     - link: about
-      text: Christian? Tell me more about that guy
+      text: Christian? Tell me more
   title: Christian
   videoBackground:
     overlay: rgba(0, 0, 0, 0.4)
